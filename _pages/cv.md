@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my full CV here](http://academicpages.github.io/files/CV_Cheng_LIU.pdf)
+
 Education
 ======
 * Ph.D in Anthropology & Certificate in Mind, Brain, and Culture, Emory University, 2024 (expected)
