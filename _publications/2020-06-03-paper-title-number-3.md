@@ -1,0 +1,15 @@
+---
+title: "[3] Versatile use of microliths as a technological advantage in the miniaturization of Late Pleistocene toolkits: The case study of Neve David, Israel"
+collection: publications
+permalink: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233340
+excerpt: 
+date: 
+venue: 
+paperurl: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233340'
+citation: 'Groman-Yaroslavski, I., Chen, H., <b>Liu, C.<\b>, Shimelmitz, R., Yeshurun, R., Liu, J., Yang, X., & Nadel,
+D. Versatile use of microliths as a technological advantage in the miniaturization of Late Pleistocene
+toolkits: e case study of Neve David, Israel. <i>PLoS ONE</i>, 15(6), e0233340.'
+---
+
+The miniaturization of stone tools, as reflected through the systematic production of bladelets and bladelet tools (microliths), characterized many industries of the Late Pleistocene, with the Levantine Epipalaeolithic serving as a well-studied example. It is commonly held that microliths were used as modular inserts in composite projectiles, while their incorporation in other tools for different tasks is generally overlooked, the latter aspect being the main focus of this paper. We present here a more inclusive approach through a case study of the Geometric Kebaran (Middle Epipalaeolithic, ca. 18,500–15,000 cal BP) site of Neve David, Mount Carmel, Israel. Recent excavations at the site exposed a variety of features, and one well-preserved shallow pit provided a large lithic assemblage with ca. 90 microliths. We studied this assemblage using both the low- and high- magnification use-wear protocols, accompanied by a range of experiments. Our results show that a) the fragmentation rate is very high in this assemblage (ca. 90%), b) most of the microliths have identifiable use-wear, c) the microliths were commonly used as inserts in composite projectiles, d) many microliths were used for functions not related to weaponry and hunting, such as wood-working, weed harvesting and meat processing. These findings strongly support the suggestion that the small insets, regardless of their specific type (trapeze, rectangle, backed/retouched bladelet), were used in a wide variety of composite tools. We argue that such a versatile approach and flexibility in the use of microliths reflect a technological advantage where a minimal set of microlithic types, produced in large numbers, could provide the required elements for weapons, as well as for a variety of cutting, processing and harvesting tools needed for mundane tasks at a large Middle Epipalaeolithic camp.
+
