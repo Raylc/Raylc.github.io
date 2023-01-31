@@ -4,9 +4,9 @@ collection: publications
 permalink: https://brill.com/view/journals/jocc/21/3-4/article-p243_3.xml
 excerpt: 
 date: 2021-10-14
-venue: Journal of Cognition and Culture
+venue: "Journal of Cognition and Culture"
 paperurl: 'https://brill.com/view/journals/jocc/21/3-4/article-p243_3.xml'
-citation: '<b>Liu, C.</b> A cathedral with disconnected chapels? Reassessing the cognitive capacities of Neanderthals
+citation: 'Liu, C. A cathedral with disconnected chapels? Reassessing the cognitive capacities of Neanderthals
 in light of recent archaeological discoveries. <i>Journal of Cognition and Culture</i>, 21(3-4), 243-260.'
 ---
 

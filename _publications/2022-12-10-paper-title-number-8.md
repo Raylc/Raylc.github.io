@@ -4,9 +4,9 @@ collection: publications
 permalink: https://link.springer.com/article/10.1007/s10816-022-09592-4
 excerpt: 
 date: 2022-12-10
-venue: Journal of Archaeological Method and theory
+venue: "Journal of Archaeological Method and theory"
 paperurl: 'https://link.springer.com/article/10.1007/s10816-022-09592-4'
-citation: 'Pargeter, J., <b>Liu, C.</b>, Kilgore, M. B., Majoe, A., & Stout, D. Testing the effect of learning conditions and
+citation: 'Pargeter, J., Liu, C., Kilgore, M. B., Majoe, A., & Stout, D. Testing the effect of learning conditions and
 individual motor/cognitive differences on knapping skill acquisition. <i>Journal of Archaeological Method and theory</i>. doi: 10.1007/s10816-022-09592-4'
 ---
 

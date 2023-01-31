@@ -4,9 +4,9 @@ collection: publications
 permalink: https://www.sciencedirect.com/science/article/abs/pii/S0278416520301963
 excerpt: 
 date: 2020-10-28
-venue: Journal of Anthropological Archaeology
+venue: "Journal of Anthropological Archaeology"
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0278416520301963'
-citation: '<b>Liu, C.</b>, Shimelmitz, R., Friesem, D., Yeshurun, R., & Nadel, D. Diachronic trends in occupation
+citation: 'Liu, C., Shimelmitz, R., Friesem, D., Yeshurun, R., & Nadel, D. Diachronic trends in occupation
 intensity of the Epipaleolithic site of Neve David (Mount Carmel, Israel): A lithic perspective. <i>Journal
 of Anthropological Archaeology</i>, 60, 101223.'
 ---

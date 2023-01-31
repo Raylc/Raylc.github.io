@@ -4,9 +4,9 @@ collection: publications
 permalink: https://www.jstor.org/stable/27074898
 excerpt: 
 date: 2020-12-30
-venue: Mitekufat Haeven: Journal of the Israel Prehistoric Society
+venue: "Mitekufat Haeven: Journal of the Israel Prehistoric Society"
 paperurl: 'https://www.jstor.org/stable/27074898'
-citation: 'Rosenberg, D., Pinsky, S., Shooval, T., Tzin, B., Reshef, H., <b>Liu, C.</b>, Ktalav, I., & Chasan, R. Lost and
+citation: 'Rosenberg, D., Pinsky, S., Shooval, T., Tzin, B., Reshef, H., Liu, C., Ktalav, I., & Chasan, R. Lost and
 found: 66B, a Late Chalcolithic site in the northern Negev, Israel and its material culture. <i>Mitekufat Haeven: Journal of the Israel Prehistoric Society</i>, 50, 104-137.'
 ---
 
