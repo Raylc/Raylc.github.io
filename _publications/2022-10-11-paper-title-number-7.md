@@ -1,7 +1,7 @@
 ---
 title: "[7] Inferring cultural reproduction from lithic data: A critical review"
 collection: publications
-permalink: https://onlinelibrary.wiley.com/doi/abs/10.1002/evan.21964
+permalink:
 excerpt: 
 date: 2022-10-11
 venue: "Evolutionary Anthropology: Issues, News, and Reviews"

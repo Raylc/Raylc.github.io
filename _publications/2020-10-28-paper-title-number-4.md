@@ -1,7 +1,7 @@
 ---
 title: "[4] Diachronic trends in occupation intensity of the Epipaleolithic site of Neve David (Mount Carmel, Israel): A lithic perspective"
 collection: publications
-permalink: https://www.sciencedirect.com/science/article/abs/pii/S0278416520301963
+permalink:
 excerpt: 
 date: 2020-10-28
 venue: "Journal of Anthropological Archaeology"

@@ -1,7 +1,7 @@
 ---
 title: "[2] Nahal Shelef: A Holocene quarry and workshop site in the Menashe Hills, Israel"
 collection: publications
-permalink: https://www.jstor.org/stable/26913203
+permalink:
 excerpt: 
 date: 2019-12-30
 venue: "Mitekufat Haeven: Journal of the Israel Prehistoric Society"
