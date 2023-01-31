@@ -1,5 +1,5 @@
 ---
-title: "Versatile use of microliths as a technological advantage in the miniaturization of Late Pleistocene toolkits: A case study of Neve David, Israel"
+title: "Versatile use of microliths as a technological advantage in the miniaturization of Late Pleistocene toolkits: A case study of Neve David, Israel"
 collection: publications
 permalink:
 excerpt: 
