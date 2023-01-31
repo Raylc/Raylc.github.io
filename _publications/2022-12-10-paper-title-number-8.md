@@ -1,15 +1,11 @@
 ---
-title: '[8] Testing the effect of learning conditions and individual motor cognitive differences on knapping skill acquisition'
+title: "Testing the effect of learning conditions and individual motor/cognitive differences on knapping skill acquisition"
 collection: publications
-permalink:
+permalink: 
 excerpt: 
 date: 2022-12-10
-venue: "Journal of Archaeological Method and theory"
+venue: 'Journal of Archaeological Method and Theory'
 paperurl: 'https://link.springer.com/article/10.1007/s10816-022-09592-4'
-citation: 'Pargeter, J., Liu, C., Kilgore, M. B., Majoe, A., & Stout, D. Testing the effect of learning conditions and
-individual motor/cognitive differences on knapping skill acquisition. <i>Journal of Archaeological Method and theory</i>. doi: 10.1007/s10816-022-09592-4'
+citation: 'Pargeter, J., Liu, C., Kilgore, M. B., Majoe, A., & Stout, D. Testing the effect of learning conditions and individual motor/cognitive differences on knapping skill acquisition. <i>Journal of Archaeological Method and Theory</i>. doi: 10.1007/s10816-022-09592-4'
 ---
-
 Stone tools provide key evidence of human cognitive evolution but remain challenging to interpret. Stone tool skill-learning has been understudied even though (1) the most salient cognitive demands of tool-making should occur during learning, and (2) variation in learning aptitude would have provided the raw material for any past selection acting on tool-making ability. However, we know very little about the cognitive prerequisites of learning under different information transmission conditions that may have prevailed during the Paleolithic. This paper presents results from an exploratory study to trial new experimental methods for studying the effect of learning conditions and individual differences on Oldowan stone tool skill acquisition. We trained 23 participants for two hours to make stone flakes under two different instructional conditions (observation only vs. direct active teaching). We employed appropriate raw materials, a moderate practice time, and in-person, fully interactive instruction. Participant performance was evaluated through an analysis of the stone artifacts produced. We compared performance across experimental groups with respect to individual participant differences in grip strength, motor accuracy, and cognitive function measured for the study. Our results show that a 2h training window is insufficient to document learning-related performance change. However, direct active teaching reduces variability in knapping rate, methods, and outcomes during early-stage learning, thus increasing the reliability of skill reproduction. Instruction also altered knapping quality vs. quantity trade-offs in the two groups and dramatically changed the effects of individual differences in strength, visuospatial working memory, and social learning tendencies on knapping outcomes. Our results provide further support for the hypothetical co-evolution of teaching, language, and tool-making, and suggest that the presence/absence of direct active teaching can fundamentally alter learning-related selection pressures on individuals. The study provides lessons for future experimental design.
-
-
