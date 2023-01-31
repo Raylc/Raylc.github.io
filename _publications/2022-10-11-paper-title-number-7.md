@@ -3,7 +3,7 @@ title: "[7] Inferring cultural reproduction from lithic data: A critical review"
 collection: publications
 permalink: https://onlinelibrary.wiley.com/doi/abs/10.1002/evan.21964
 excerpt: 
-date: 
+date: 2022-10-11
 venue: 
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/evan.21964'
 citation: '<b>Liu, C.<\b>, & Stout, D. Inferring cultural reproduction from lithic data: A critical review. <i>Evolutionary

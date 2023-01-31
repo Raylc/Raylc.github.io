@@ -3,7 +3,7 @@ title: "[3] Versatile use of microliths as a technological advantage in the mini
 collection: publications
 permalink: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233340
 excerpt: 
-date: 
+date: 2020-06-03
 venue: 
 paperurl: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233340'
 citation: 'Groman-Yaroslavski, I., Chen, H., <b>Liu, C.<\b>, Shimelmitz, R., Yeshurun, R., Liu, J., Yang, X., & Nadel,

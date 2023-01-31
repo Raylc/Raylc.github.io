@@ -3,7 +3,7 @@ title: "[1] Investigation on the modern environment and resources at Bianbiandon
 collection: publications
 permalink: http://www.cnki.com.cn/Article/CJFDTotal-DFKG201500029.htm
 excerpt: 
-date: 
+date: 2015-12-01
 venue: 
 paperurl: 'http://www.cnki.com.cn/Article/CJFDTotal-DFKG201500029.htm'
 citation: 'He, Y., Jin, G., Zhang, B., <b>Liu, C.<\b>, Xu, S., Chen, S., Yi, H., & Jiang, F. Investigation on the modern

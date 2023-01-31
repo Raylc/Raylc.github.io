@@ -3,7 +3,7 @@ title: "[5] Lost and found: 66B, a Late Chalcolithic site in the northern Negev,
 collection: publications
 permalink: https://www.jstor.org/stable/27074898
 excerpt: 
-date: 
+date: 2020-12-30
 venue: 
 paperurl: 'https://www.jstor.org/stable/27074898'
 citation: 'Rosenberg, D., Pinsky, S., Shooval, T., Tzin, B., Reshef, H., <b>Liu, C.<\b>, Ktalav, I., & Chasan, R. Lost and

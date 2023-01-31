@@ -4,7 +4,7 @@ collection: publications
 permalink: https://www.jstor.org/stable/26913203
 excerpt: 
 date: 
-venue: 
+venue: 2019-12-30
 paperurl: 'https://www.jstor.org/stable/26913203'
 citation: 'Shimelmitz, R., <b>Liu, C.<\b>, Seymore, M., Gershtein, E. C., Gershtein, K. C., Katina, A., Shtober-Zisu, N.,
 & Nadel, D. Nahal Shelef: A Holocene quarry and workshop site in the Menashe Hills, Israel. <i>Mitekufat

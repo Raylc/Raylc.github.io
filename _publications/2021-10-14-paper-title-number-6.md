@@ -3,7 +3,7 @@ title: "[6] A cathedral with disconnected chapels? Reassessing the cognitive cap
 collection: publications
 permalink: https://brill.com/view/journals/jocc/21/3-4/article-p243_3.xml
 excerpt: 
-date: 
+date: 2021-10-14
 venue: 
 paperurl: 'https://brill.com/view/journals/jocc/21/3-4/article-p243_3.xml'
 citation: '<b>Liu, C.<\b> A cathedral with disconnected chapels? Reassessing the cognitive capacities of Neanderthals

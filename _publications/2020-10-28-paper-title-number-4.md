@@ -3,7 +3,7 @@ title: "[4] Diachronic trends in occupation intensity of the Epipaleolithic site
 collection: publications
 permalink: https://www.sciencedirect.com/science/article/abs/pii/S0278416520301963
 excerpt: 
-date: 
+date: 2020-10-28
 venue: 
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0278416520301963'
 citation: '<b>Liu, C.<\b>, Shimelmitz, R., Friesem, D., Yeshurun, R., & Nadel, D. Diachronic trends in occupation
