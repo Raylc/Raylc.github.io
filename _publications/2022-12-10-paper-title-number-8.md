@@ -1,5 +1,5 @@
 ---
-title: '[8] Testing the effect of learning conditions and individual motor/cognitive differences on knapping skill acquisition'
+title: '[8] Testing the effect of learning conditions and individual motor cognitive differences on knapping skill acquisition'
 collection: publications
 permalink:
 excerpt: 
