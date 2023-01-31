@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "[1] Investigation on the modern environment and resources at Bianbiandong site (扁扁洞遗址现代环境与资源调查报告)"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: http://www.cnki.com.cn/Article/CJFDTotal-DFKG201500029.htm
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'He, Y., Jin, G., Zhang, B., **Liu, C.**, Xu, S., Chen, S., Yi, H., & Jiang, F. Investigation on the modern
+environment and resources at Bianbiandong site (扁扁洞遗址现代环境与资源调查报告). <i>Eastern
+Archaeology (东方考古)</i>, 12, 361-368. (In Chinese with English abstract)'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

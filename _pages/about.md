@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Cheng's personal webiste"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,5 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Cheng Liu is a doctoral candidate in the Department of Anthropology at Emory University. He has a wide range of research interests across Old World prehistory, hunter-gatherer societies, lithic analysis, and cultural evolution. For his dissertation project, he is trying to build a reference framework for inferring the reproduction of microlithic knapping technology within different communities of practice using a mixed-method approach that integrates experimental, ethnographical, and ethological analyses. Prior to joining Emory, Cheng completed his BA at Wuhan University, China and MA at the University of Haifa, Israel, both in archaeology. He has conducted multiple field and laboratory research projects in China, Israel, and Ethiopia, ranging from the Middle Paleolithic to the 20th century. His work has appeared in several peer-reviewed archaeology and interdisciplinary journals, including Journal of Anthropological Archaeology, Evolutionary Anthropology, Journal of Cognition and Culture, PLoS ONE, and Mitekufat Haeven: Journal of the Israel Prehistoric Society.
+[Download my CV here](http://raylc.github.io/files/CV_Cheng_LIU.pdf)
 
+- I am a PhD candidate in anthropology at Emory University.
+
+- My research interests include Old World Prehistory, Hunter-gatherer Societies, Lithic Anlaysis, and Cultural Evolution.
+
+- I have published in [*Evolutionary Anthropology*](https://onlinelibrary.wiley.com/doi/full/10.1002/evan.21964), [*Journal of Anthropological Archaeology*](https://www.sciencedirect.com/science/article/abs/pii/S0278416520301963), and [*Journal of Cognition and Culture*](https://brill.com/view/journals/jocc/21/3-4/article-p243_3.xml), among other outlets.
+
+- My research has been funded by the [Leakey Foundation](https://leakeyfoundation.org/introducing-the-spring-2022-leakey-foundation-grantees/), [JSPS](https://www.jsps.go.jp/english/e-oubei-s/index.html), and [NSF] (https://www.nsf.gov/awardsearch/showAward?AWD_ID=2020156&HistoricalAwards=false), among others.
