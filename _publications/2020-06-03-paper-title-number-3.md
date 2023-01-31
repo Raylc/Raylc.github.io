@@ -4,9 +4,9 @@ collection: publications
 permalink: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233340
 excerpt: 
 date: 2020-06-03
-venue: 
+venue: PLoS ONE
 paperurl: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233340'
-citation: 'Groman-Yaroslavski, I., Chen, H., <b>Liu, C.<\b>, Shimelmitz, R., Yeshurun, R., Liu, J., Yang, X., & Nadel,
+citation: 'Groman-Yaroslavski, I., Chen, H., <b>Liu, C.</b>, Shimelmitz, R., Yeshurun, R., Liu, J., Yang, X., & Nadel,
 D. Versatile use of microliths as a technological advantage in the miniaturization of Late Pleistocene
 toolkits: e case study of Neve David, Israel. <i>PLoS ONE</i>, 15(6), e0233340.'
 ---
