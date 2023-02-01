@@ -2,7 +2,7 @@
 title: "[6] A cathedral with disconnected chapels? Reassessing the cognitive capacities of Neanderthals in light of recent archaeological discoveries"
 collection: publications
 permalink:
-excerpt: 
+excerpt: ""
 date: 2021-10-14
 venue: "Journal of Cognition and Culture"
 paperurl: 'https://brill.com/view/journals/jocc/21/3-4/article-p243_3.xml'
