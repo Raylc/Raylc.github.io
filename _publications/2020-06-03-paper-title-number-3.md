@@ -2,7 +2,7 @@
 title: "[3] Versatile use of microliths as a technological advantage in the miniaturization of Late Pleistocene toolkits: A case study of Neve David, Israel"
 collection: publications
 permalink:
-excerpt: ""
+excerpt: "CRediT: Formal analysis, Methodology, Writing – original draft, Writing – review & editing"
 date: 2020-06-03
 venue: "PLoS ONE"
 paperurl: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233340'

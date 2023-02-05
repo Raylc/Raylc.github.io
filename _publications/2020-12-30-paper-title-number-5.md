@@ -2,7 +2,7 @@
 title: "[5] Lost and found: 66B, a Late Chalcolithic site in the northern Negev, Israel and its material culture"
 collection: publications
 permalink:
-excerpt: ""
+excerpt: "CRediT: Formal analysis, Writing – original draft"
 date: 2020-12-30
 venue: "Mitekufat Haeven: Journal of the Israel Prehistoric Society"
 paperurl: 'https://www.jstor.org/stable/27074898'

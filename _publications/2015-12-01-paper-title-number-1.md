@@ -2,7 +2,7 @@
 title: "[1] Investigation on the modern environment and resources at Bianbiandong site (扁扁洞遗址现代环境与资源调查报告)"
 collection: publications
 permalink:
-excerpt: ""
+excerpt: "CRediT: Investigation, Writing – original draft"
 date: 2015-12-01
 venue: "Eastern Archaeology (东方考古)"
 paperurl: 'http://www.cnki.com.cn/Article/CJFDTotal-DFKG201500029.htm'

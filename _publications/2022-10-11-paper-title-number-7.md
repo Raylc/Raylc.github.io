@@ -2,7 +2,7 @@
 title: "[7] Inferring cultural reproduction from lithic data: A critical review"
 collection: publications
 permalink:
-excerpt: ""
+excerpt: "CRediT: Conceptualization, Formal analysis, Methodology, Writing – original draft, Writing – review & editing"
 date: 2022-10-11
 venue: "Evolutionary Anthropology: Issues, News, and Reviews"
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/evan.21964'
