@@ -1,10 +1,10 @@
 ---
 title: "ANT 385 Foraging to Food Production"
 collection: teaching
-type: "Teaching Assistant, Undergraduate course"
+type: "Guest Lecturer, Undergraduate course"
 permalink: /teaching/2020-spring-teaching-2
 excerpt: ""
-venue: "Emory University"
+venue: "Emory University, Spring"
 date: 2020-03-14
 location: "Atlanta, GA, USA"
 ---

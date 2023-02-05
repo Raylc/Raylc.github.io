@@ -4,7 +4,7 @@ collection: teaching
 type: "Guest Lecturer, Undergraduate course"
 permalink: /teaching/2021-fall-teaching-5
 excerpt: ""
-venue: "Emory University"
+venue: "Emory University, Fall"
 date: 2021-08-25
 location: "Atlanta, GA, USA"
 ---

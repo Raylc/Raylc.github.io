@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant, Undergraduate course"
 permalink: /teaching/2020-spring-teaching-1
 excerpt: ""
-venue: "Emory University"
+venue: "Emory University, Spring"
 date: 2020-01-14
 location: "Atlanta, GA, USA"
 ---

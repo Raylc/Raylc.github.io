@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant, Undergraduate course"
 permalink: /teaching/2020-fall-teaching-3
 excerpt: ""
-venue: "Emory University"
+venue: "Emory University, Fall"
 date: 2020-08-19
 location: "Atlanta, GA, USA"
 ---
