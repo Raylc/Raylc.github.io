@@ -6,7 +6,7 @@ excerpt: ""
 date: 2022-10-11
 venue: "Evolutionary Anthropology: Issues, News, and Reviews"
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/evan.21964'
-citation: 'Liu, C., & Stout, D. Inferring cultural reproduction from lithic data: A critical review. <i>Evolutionary
+citation: 'Liu, C., & Stout, D. (2022). Inferring cultural reproduction from lithic data: A critical review. <i>Evolutionary
 Anthropology: Issues, News, and Reviews</i>. doi: 10.1002/evan.21964'
 ---
 
