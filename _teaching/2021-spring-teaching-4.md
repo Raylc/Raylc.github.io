@@ -1,8 +1,8 @@
 ---
-title: "ANT285 Concepts and Methods in Biological Anthropology (Prof. Craig Hadley)"
+title: "ANT285 Concepts and Methods in Biological Anthropology"
 collection: teaching
 type: "Teaching Assistant, Undergraduate course"
-permalink: /teaching/2021-spring-teaching-1
+permalink: /teaching/2021-spring-teaching-4
 excerpt: ""
 venue: "Emory University"
 date: 2021-01-25

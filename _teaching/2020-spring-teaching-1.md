@@ -1,5 +1,5 @@
 ---
-title: "ANT/BIOS315 Ancient DNA and Human Evolution (Prof. John Lindo)"
+title: "ANT/BIOS315 Ancient DNA and Human Evolution"
 collection: teaching
 type: "Teaching Assistant, Undergraduate course"
 permalink: /teaching/2020-spring-teaching-1

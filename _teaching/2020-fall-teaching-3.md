@@ -1,8 +1,8 @@
 ---
-title: "ANT204 Introduction To Archaeology (Prof. Dietrich Stout)"
+title: "ANT204 Introduction To Archaeology"
 collection: teaching
 type: "Teaching Assistant, Undergraduate course"
-permalink: /teaching/2020-fall-teaching-1
+permalink: /teaching/2020-fall-teaching-3
 excerpt: ""
 venue: "Emory University"
 date: 2020-08-19
