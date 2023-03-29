@@ -1,5 +1,5 @@
 ---
-title: "ANT204 Introduction To Archaeology"
+title: "[5] ANT204 Introduction To Archaeology"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-teaching-5

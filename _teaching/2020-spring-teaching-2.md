@@ -1,5 +1,5 @@
 ---
-title: "ANT385 Foraging to Food Production"
+title: "[2] ANT385 Foraging to Food Production"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-spring-teaching-2

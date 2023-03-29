@@ -1,0 +1,11 @@
+---
+title: "[10] Differential effects of knapping skill acquisition on the cultural reproduction of Late Acheulean handaxe morphology: Archaeological and experimental insights"
+collection: publications
+permalink: 
+excerpt: "CRediT: Conceptualization, Data curation, Formal Analysis, Investigation, Methodology, Visualization, Writing – original draft, Writing – review & editing"
+date: 2023-03-30
+venue: 'Journal of Archaeological Science: Reports'
+paperurl: 'https://doi.org/10.1016/j.jasrep.2023.103974'
+citation: 'Liu, C., Khreisheh, N., Stout, D., & Pargeter, J. (2022). Differential effects of knapping skill acquisition on the cultural reproduction of Late Acheulean handaxe morphology: Archaeological and experimental insights. <i>Journal of Archaeological Science: Reports</i>, 49, 103974'
+---
+Despite the extensive literature focusing on Acheulean handaxes, especially the sources and meaning of their morphological variability, many aspects of this topic remain elusive. Archaeologists cite several factors that con-tribute to handaxe morphological variability, including knapping skill and mental templates. Integrating these two lines of literature into a broader theoretical framework of cultural reproduction, here we present new results from a multidisciplinary study of Late Acheulean handaxe-making skill acquisition involving thirty naïve participants trained for up to 90h in Late Acheulean style handaxe production and three expert knappers. We compare the experimental handaxe shapes to the Late Acheulean handaxe assemblage from Boxgrove, UK. Through the principal component analysis of morphometric data derived from images, our study suggested that knapping skill acquisition has a differential effect on the cultural reproduction of different aspects of handaxe morphology. More specifically, compared with elongation and pointedness (PC2), cross-sectional thinning (PC1) is more constrained by knapping skill. Our findings thus shed new light on how skill learning can bias the cultural reproduction of artifact morphology.

@@ -1,5 +1,5 @@
 ---
-title: "ANT285 Concepts and Methods in Biological Anthropology (Online)"
+title: "[4] ANT285 Concepts and Methods in Biological Anthropology (Online)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-spring-teaching-4

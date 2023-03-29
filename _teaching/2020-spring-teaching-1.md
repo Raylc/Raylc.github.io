@@ -1,5 +1,5 @@
 ---
-title: "ANT/BIOS315 Ancient DNA and Human Evolution"
+title: "[1] ANT/BIOS315 Ancient DNA and Human Evolution"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-spring-teaching-1
