@@ -3,7 +3,7 @@ title: "[6] ANT304W Paleolithic Archaeology"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-spring-teaching-6
-excerpt: Guest Lecturer, Class Size: 18"
+excerpt: "Guest Lecturer, Class Size: 18"
 venue: "Emory University, Spring"
 date: 2023-01-10
 location: "Atlanta, GA, USA"
