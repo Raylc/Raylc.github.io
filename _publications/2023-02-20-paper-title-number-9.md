@@ -8,7 +8,7 @@ venue: 'Lithic Technology'
 paperurl: 'https://link.springer.com/article/10.1007/s10816-022-09592-4'
 citation: 'Wilson, E., Stout, D., Liu, C., Kilgore, M. B., & Pargeter, J. (2022). Skill and core uniformity: An experiment with Oldowan-like flaking systems. <i>Lithic Technology</i>. doi: 10.1080/01977261.2023.2178767'
 ---
-The Oldowan is the archaeological record’s oldest consistent evidence of hominin technical
+Abstract: The Oldowan is the archaeological record’s oldest consistent evidence of hominin technical
 behavior. First appearing ∼2.6 Ma in East Africa, the Oldowan is characterized by simple core
 and flake technology using direct hard hammer percussion. Archaeologists debate whether
 Oldowan assemblages are uniform and what role hominin cultural abilities played in generating
