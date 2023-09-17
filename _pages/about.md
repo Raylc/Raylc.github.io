@@ -12,7 +12,7 @@ redirect_from:
 
 - I am a PhD candidate in anthropology at Emory University.
 
-- My research interests include the Prehistoric Eurasia and Africa, Hunter-gatherer Societies, Lithic Anlaysis, and Cultural Evolution.
+- My research interests include the Prehistoric Eurasia and Africa, Hunter-gatherer Societies, Lithic Analysis, and Cultural Evolution.
 
 - I have conducted multiple field and laboratory research projects in China, Israel, and Ethiopia.
 
