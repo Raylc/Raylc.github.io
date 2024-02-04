@@ -5,7 +5,7 @@ permalink:
 excerpt: "CRediT: Investigation, Writing – original draft"
 date: 2015-12-01
 venue: "Eastern Archaeology (东方考古)"
-paperurl: 'http://www.cnki.com.cn/Article/CJFDTotal-DFKG201500029.htm'
+paperurl: 'https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CCJD&filename=DFKG201500029&dbname=CCJDLAST2'
 citation: 'He, Y., Jin, G., Zhang, B., Liu, C., Xu, S., Chen, S., Yi, H., & Jiang, F. (2015). Investigation on the modern
 environment and resources at Bianbiandong site (扁扁洞遗址现代环境与资源调查报告). <i>Eastern
 Archaeology (东方考古)</i>, 12, 361-368. (In Chinese with English abstract)'
