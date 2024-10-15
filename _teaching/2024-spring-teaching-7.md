@@ -2,7 +2,7 @@
 title: "[7] ANT204 Introduction to Archaeology"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2023-spring-teaching-7
+permalink: /teaching/2024-spring-teaching-7
 excerpt: "Instructor of Record, Class Size: 19"
 venue: "Emory University, Spring"
 date: 2024-01-18
