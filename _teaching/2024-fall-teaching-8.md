@@ -1,9 +1,9 @@
 ---
-title: "[8] SIRE299R Introduction to Archaeology"
+title: "[8] SIRE299R SIRE Research Partner Program"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-fall-teaching-8
-excerpt: "Instructor of Record, Class Size: 9"
+excerpt: "Instructor of Record, Class Size: 10"
 venue: "Emory University, Fall"
 date: 2024-08-28
 location: "Atlanta, GA, USA"
