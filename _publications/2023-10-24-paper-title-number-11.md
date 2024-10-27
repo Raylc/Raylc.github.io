@@ -1,0 +1,11 @@
+---
+title: "[11] Human Stone Toolmaking Action Grammar (HSTAG): A Challenging Benchmark for Fine-Grained Motor Behavior Recognition"
+collection: publications
+permalink: 
+excerpt: "CRediT: Conceptualization, Data curation, Investigation, Methodology, Visualization, Writing – original draft, Writing – review & editing, Funding acquisition"
+date: 2024-10-24
+venue: '2024 IEEE 11th International Conference on Data Science and Advanced Analytics (DSAA)'
+paperurl: 'https://ieeexplore.ieee.org/document/10722814/'
+citation: 'Liu, C., Yan, X., Zhang, Z., Ding, C., Zhao, T., Jannati, S., Martinez, C., & Stout, D. (2024). Human Stone Toolmaking Action Grammar (HSTAG): A Challenging Benchmark for Fine-Grained Motor Behavior Recognition. <i>2024 IEEE 11th International Conference on Data Science and Advanced Analytics (DSAA)</i>. doi: 10.1109/DSAA61799.2024.10722814.'
+---
+Abstract: Action recognition has witnessed the development of a growing number of novel algorithms and datasets in the past decade. However, the majority of public benchmarks were constructed around activities of daily living and annotated at a rather coarse-grained level, which lacks diversity in domain- specific datasets, especially for rarely seen domains. In this paper, we introduced Human Stone Toolmaking Action Grammar (HSTAG), a meticulously annotated video dataset showcasing previously undocumented stone toolmaking behaviors, which can be used for investigating the applications of advanced artificial intelligence techniques in understanding a rapid succession of complex interactions between two hand-held objects. HSTAG consists of 18,739 video clips that record 4.5 hours of experts' activities in stone toolmaking. Its unique features include (i) brief action durations and frequent transitions, mirroring the rapid changes inherent in many motor behaviors; (ii) multiple angles of view and switches among multiple tools, increasing intra-class variability; (iii) unbalanced class distributions and high similarity among different action sequences, adding difficulty in capturing distinct patterns for each action. Several mainstream action recognition models are used to conduct experimental analysis, which showcases the challenges and uniqueness of HSTAG.
