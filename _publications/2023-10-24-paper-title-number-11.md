@@ -2,7 +2,7 @@
 title: "[11] Human Stone Toolmaking Action Grammar (HSTAG): A Challenging Benchmark for Fine-Grained Motor Behavior Recognition"
 collection: publications
 permalink: 
-excerpt: "CRediT: Conceptualization, Data curation, Investigation, Methodology, Visualization, Writing – original draft, Writing – review & editing, Funding acquisition"
+excerpt: "CRediT: Conceptualization, Data curation, Investigation, Methodology, Visualization, Writing – original draft, Writing – review & editing, Funding acquisition, Supervision"
 date: 2024-10-24
 venue: '2024 IEEE 11th International Conference on Data Science and Advanced Analytics (DSAA)'
 paperurl: 'https://ieeexplore.ieee.org/document/10722814/'
