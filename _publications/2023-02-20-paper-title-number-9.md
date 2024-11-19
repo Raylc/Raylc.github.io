@@ -2,7 +2,7 @@
 title: "[9] Skill and core uniformity: An experiment with Oldowan-like flaking systems"
 collection: publications
 permalink: 
-excerpt: "CRediT: Data curation, Investigation, Writing – review & editing"
+excerpt: "CRediT: Data curation, Investigation, Validation, Writing – review & editing"
 date: 2023-02-20
 venue: 'Lithic Technology'
 paperurl: 'https://link.springer.com/article/10.1007/s10816-022-09592-4'
