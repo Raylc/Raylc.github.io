@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/2025-spring-teaching-10
 excerpt: "Co-Instructor of Record, Class Size: 20"
 venue: "Emory University, Spring"
-date: 2025-01-14
+date: 2025-01-15
 location: "Atlanta, GA, USA"
 ---
 Instructors: Mark Risjord, Cheng Liu, Laura Varela Mejia, Ekram Towsif 
