@@ -3,7 +3,7 @@ title: "[10] IDS220RW ORDER Seminar: What Does it Mean to be Human?"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-spring-teaching-10
-excerpt: "Co-Instructor of Record, Class Size: 20"
+excerpt: "Co-Instructor of Record, Class Size: 18"
 venue: "Emory University, Spring"
 date: 2025-01-15
 location: "Atlanta, GA, USA"
