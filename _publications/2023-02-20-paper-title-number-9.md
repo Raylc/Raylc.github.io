@@ -5,7 +5,7 @@ permalink:
 excerpt: "CRediT: Data curation, Investigation, Validation, Writing – review & editing"
 date: 2023-02-20
 venue: 'Lithic Technology'
-paperurl: 'https://link.springer.com/article/10.1007/s10816-022-09592-4'
+paperurl: 'https://doi.org/10.1080/01977261.2023.2178767'
 citation: 'Wilson, E., Stout, D., Liu, C., Kilgore, M. B., & Pargeter, J. (2023). Skill and core uniformity: An experiment with Oldowan-like flaking systems. <i>Lithic Technology</i>, 48(4), 333-346.'
 ---
 Abstract: The Oldowan is the archaeological record’s oldest consistent evidence of hominin technical

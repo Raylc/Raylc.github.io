@@ -5,7 +5,7 @@ permalink:
 excerpt: "CRediT: Conceptualization, Formal analysis, Methodology, Writing – original draft, Writing – review & editing"
 date: 2022-10-11
 venue: "Evolutionary Anthropology: Issues, News, and Reviews"
-paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/evan.21964'
+paperurl: 'https://doi.org/10.1002/evan.21964'
 citation: 'Liu, C., & Stout, D. (2023). Inferring cultural reproduction from lithic data: A critical review. <i>Evolutionary Anthropology: Issues, News, and Reviews</i>, 32: 83-99'
 ---
 

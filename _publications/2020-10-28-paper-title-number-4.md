@@ -5,7 +5,7 @@ permalink:
 excerpt: "CRediT: Conceptualization, Formal analysis, Methodology, Writing – original draft, Writing – review & editing"
 date: 2020-10-28
 venue: "Journal of Anthropological Archaeology"
-paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0278416520301963'
+paperurl: 'https://doi.org/10.1016/j.jaa.2020.101223'
 citation: 'Liu, C., Shimelmitz, R., Friesem, D., Yeshurun, R., & Nadel, D. (2020). Diachronic trends in occupation
 intensity of the Epipaleolithic site of Neve David (Mount Carmel, Israel): A lithic perspective. <i>Journal
 of Anthropological Archaeology</i>, 60, 101223.'
