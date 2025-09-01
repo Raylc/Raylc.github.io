@@ -10,6 +10,8 @@ redirect_from:
 
 [Download my CV here](http://raylc.github.io/files/CV_Cheng_LIU.pdf)
 
+- Currently, I am a postdoctoral fellow at the [UMR5199 PACEA](https://www.pacea.u-bordeaux.fr/), funded by the ERC Synergy Grant [QUANTA](https://quanta.eva.mpg.de/).
+
 - I received my Ph.D. degree in anthropology at Emory University.
 
 - My research interests include the Prehistoric Eurasia and Africa, Cognitive Archaeology, Lithic Analysis, and Cultural Evolution.
