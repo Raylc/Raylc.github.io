@@ -5,7 +5,7 @@ permalink:
 excerpt: "CRediT: Formal analysis, Writing – original draft"
 date: 2020-12-30
 venue: "Mitekufat Haeven: Journal of the Israel Prehistoric Society"
-paperurl: 'https://www.jstor.org/stable/27074898'
+paperurl: 'https://doi.org/10.61247/s797552'
 citation: 'Rosenberg, D., Pinsky, S., Shooval, T., Tzin, B., Reshef, H., Liu, C., Ktalav, I., & Chasan, R. (2020). Lost and
 found: 66B, a Late Chalcolithic site in the northern Negev, Israel and its material culture. <i>Mitekufat Haeven: Journal of the Israel Prehistoric Society</i>, 50, 104-137.'
 ---
